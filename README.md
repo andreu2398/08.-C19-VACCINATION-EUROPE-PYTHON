@@ -1,4 +1,4 @@
-# 8.-C19-VACCINATION-EUROPE-PYTHON
+# 08.-C19-VACCINATION-EUROPE-PYTHON
 
 In this project I analyze the situation of the COVID19 vaccination in Europe as of the 9th of September of 2021.
 
